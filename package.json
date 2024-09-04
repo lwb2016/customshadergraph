@@ -1,0 +1,19 @@
+{
+  "name": "com.tateam.shadergraph",
+  "version": "1.1.0",
+  "unity": "2022.3",
+  "displayName": "Custom Shader Graph",
+  "description": "Shader Graph Templete For Car Shading\\BxDF",
+  "keywords": [
+    "Shader Graph",
+    "Tool"
+  ],
+  "dependencies": {
+    "com.unity.render-pipelines.core": "14.0.6",
+    "com.unity.searcher": "4.9.2",
+    "com.cyanilux.shadergraph-variables": "1.0.4"
+  },
+  "author": {
+    "name": "DongJun.Huang"
+  }
+}
